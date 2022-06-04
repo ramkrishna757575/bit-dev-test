@@ -1,2 +1,4 @@
 .bit
 node_modules
+public
+.idea

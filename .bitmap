@@ -9,5 +9,11 @@
  */
 
 {
+    "buttons/button": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "ui-library/buttons/button"
+    },
     "$schema-version": "14.9.0"
 }
