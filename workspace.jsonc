@@ -38,13 +38,12 @@
      */
     "packageManager": "teambit.dependencies/pnpm",
     "policy": {
-      "dependencies": {
+      "dependencies": {},
+      "peerDependencies": {
         "@emotion/react": "11.9.0",
         "@emotion/styled": "11.8.1",
         "@mui/material": "5.8.2",
-        "@testing-library/react": "13.3.0"
-      },
-      "peerDependencies": {
+        "@testing-library/react": "13.3.0",
         "react": "18.1.0",
         "react-dom": "18.1.0"
       }
